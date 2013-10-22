@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 旭丘
 Asahigaoka
 
@@ -291,3 +292,283 @@ In two hours.
 Huh?!
 Man...buses in the sticks sure are inconvenient.
 I knew it!
+=======
+Text: Non Non Biyori
+Renge: This place is my village.
+Renge: It's quiet and peaceful.
+Renge: But sometimes I think...
+Renge: Where we live...
+Natsumi: Ren-chon!
+Renge: ...is the sticks.
+Title: Episode 1
+Title: A New Transfer Student
+Natsumi: Mornin'!
+Natsumi: What was that?
+Renge: Nyanpasu~!
+Natsumi: I dunno what that means. What did you say?
+Renge: Nyan...pasu~!
+Natsumi: Nyan...pasu...
+Renge: What about Koma-chan?
+Natsumi: Oh, she left earlier.
+Natsumi: The weather is so perfect! But we have school today...
+Renge: I'm a brand-new first grader, so I think it will be fun!
+Natsumi: It's not going to be fun for long.
+Natsumi: School life is tough, you know.
+Natsumi: It's all homework, tests, and more homework.
+Renge: For breakfast, we had miso soup with horsetail shoots.
+Natsumi: We had egg soup with horsetail shoots and onions.
+Natsumi: Run, Ren-chon!
+Komari: Renge! Natsumi!
+Natsumi: Nee-chan!
+Renge: Nattsun, did you watch the news today?
+Natsumi: Oh, no, I didn't. I was in a hurry.
+Komari: I didn't see it either.
+Renge: Too bad. Today's news was pretty exciting.
+Natsumi: Did something happen?
+Renge: Outside the window behind the host, there was this old guy doing radio calisthenics.
+Renge: It was very cool.
+Natsumi: Why is that exciting to you?
+Text: Asahigaoka Branch School
+Natsumi: Man, it's still a bit cold.
+Renge: Today, the classroom feels different than yesterday.
+Natsumi: What?
+Mizuho: Mornin'.
+Mizuho: Take your seats.
+Hotaru: Um...
+Mizuho: Why don't you introduce yourself?
+Natsumi: Ichijou...
+Text: Ichijou Hotaru
+Hotaru: Ah, um...I'm Ichijou Hotaru.
+Hotaru:  I'm from Tokyo.
+Komari: Whoa! From Tokyo?!
+Natsumi: That says "Hotaru"?
+Renge: First time I've seen that character.
+Natsumi: What grade?
+Hotaru: Fifth.
+Komari: Younger? She's younger than me?!
+Natsumi: She doesn't look like a fifth grader.
+Natsumi: Hey, did you do something bad at your last school?
+Hotaru: No, it's because of my father's work.
+Natsumi: What! Oh, the usual, then...
+Renge: Nyanpasu~!
+Hotaru: Nya-nyan...
+Mizuho: Take a seat.
+Hotaru: Alright.
+Renge: Oh, yeah. There's an extra seat.
+Komari: You just realized?
+Renge: Nice to meet you, Hotarun.
+Hotaru: Hotarun...
+Natsumi: What was first period again?
+Komari: Japanese.
+Text: Complete Training Guide Grade 7 Japanese Review Drills
+Text: Complete Training Guide Grade 8 Japanese Review Drills
+Text: Japanese Drills by Repetition
+Hotaru: Ah, everyone is in different grades?
+Renge: I'm in first.
+Komari: I'm in eighth.
+Natsumi: I'm in seventh,
+Natsumi: and Nii-chan's in ninth.
+Hotaru: You're all in the same classroom?
+Natsumi: Yeah.
+Hotaru: Every class?
+Natsumi: What do you mean, every class?  This is the only class.
+Hotaru: The whole school is just four students?
+Renge: It's five now with you, Hotarun.
+Komari: Since we're all in different grades,
+Komari: it's mostly self-study.
+Hotaru: Self-study?
+Komari: Didn't you get a workbook?
+Hotaru: Oh! Yeah I did!
+Text: Grade 8 Class 1
+Text: + Grade 1  + Grade 7  + Grade 9
+Natsumi: Now then, what should we do?
+Renge: Hm, I...
+Renge: Dodgeball! I wanna play dodgeball!
+Natsumi: Dodge ball, huh?
+Hotaru: Um...
+Hotaru: I was wondering on my way to class...
+Hotaru: what are the buckets for?
+Natsumi: Ah, they're for catching leaks.
+Natsumi: So, don't get too close to them.
+Hotaru: Oh, I see.
+: It would be annoying if a bucket got moved and we couldn't find the leak again.
+Natsumi: Nah, that's not it.
+: The floor's rotting from the moisture.
+Natsumi: If you get close, you'll fall through.
+Hotaru: Huh?!
+Natsumi: Just kidding, just kidding!
+Natsumi: So far, no one has been stupid enough to fall in.
+Natsumi: Yeah, so just be careful.
+Hotaru: Ah, I see.
+Natsumi: Here I go!
+Natsumi: Take this!
+Komari: Ahh, yikes!
+Natsumi: Whoops.
+Renge: Hotarun!
+Hotaru: Oof!
+Natsumi: Hotarun's out.
+Hotaru: I shouldn't have tried to catch it...
+Renge: There's a key on the ground!
+Hotaru: Oh, that's mine.
+Natsumi: A key? For what?
+Komari: What's the matter?
+Hotaru: Well, no one is going to be home until tonight,
+Hotaru: so I brought my house key.
+Natsumi: Ren-chon, do you lock your house?
+Renge: Nuh-uh.
+Natsumi: Nee-chan, we don't lock our doors either, do we?
+Komari: I've never even seen a lock before.
+Natsumi: Right?...
+All: You're strange.
+Hotaru: Wait, what else would I lock...?
+Natsumi: Maybe mackerel?
+Natsumi: (Note: 'Shimeru' means both to lock, and to prepare with vinegar)
+Natsumi: We're done! We're done!
+Komari: Hurry, let's get home.
+Renge: Hotarun!
+Renge: Want to hang out at our house?
+Renge: You don't wanna?
+Hotaru: Ah, okay.
+Hotaru: Well, just for a little bit.
+Renge: These are mandarin orange trees.
+Renge: The new blossoms are coming out.
+Hotaru: You grow mandarin oranges?
+Natsumi: And rice and vegetables, mostly.
+Natsumi: Oh, and leaves.
+Hotaru: Leaves?
+Natsumi: Like garnish for food.
+Hotaru: Um, do you have any stores?
+Renge: There's a co-op and a candy store.
+Hotaru: Uh, anything else?
+Natsumi: The police box?
+Komari: That's not a store.
+Hotaru: Is there a bookstore?
+Komari: The candy store sells magazines.
+Komari: But they're two days late.
+Hotaru: Convenience stores...none of those either?
+Renge: I've seen commercials about them!
+Text: Cattle Crossing
+Hotaru: Cattle?
+Natsumi: Sometimes deer, too.
+Komari: And boars.
+Renge: What's wrong?
+Hotaru: This place is just...so different from Tokyo.
+Natsumi: So it's still too early to put away the kotatsu...
+Komari: Hey, did you notice that the door wasn't locked?
+Hotaru: Yes.
+Renge: Today, mom and dad are working in the fields.
+Natsumi: Nee-chan, grab that for me...
+Komari: Jeez, can't you grab it yourself?
+Komari: Here.
+Natsumi: Ah, thank you, thank you.
+Natsumi: What's up, Ren-chon?
+Renge: I'm gonna show Hotarun my talent!
+Natsumi: There's no sound coming out.
+Natsumi: Still no sound coming out.
+Natsumi: Whoa! Something came out!
+Hotaru: A tanuki!
+Komari: You keep a tanuki?
+Natsumi: And the tanuki actually heard you?
+Renge: I named it too.
+Natsumi: What kind of name?
+Renge: Gu!
+Text: Gu's Dish
+Natsumi: Oh! A psychedelic name!
+Renge: Gu will do a trick if I whistle again!
+Natsumi: Whoa!
+Natsumi: The whistling made a noise this time!
+Natsumi: What will Gu do?!
+Natsumi: Ren-chon!
+Komari: Morning!
+Natsumi: Ren-chon?
+Renge: Nattsun...
+Renge: Do we really live in the sticks?
+Natsumi: Where is this coming from?
+Renge: Hotarun was really surprised.
+Renge: Having different grades in one classroom, and the tanuki...
+Renge: Nee-nee told me if you drive 50 kilometers per hour
+Renge: you'll be somewhere fifty kilometers away in an hour,
+Renge: and that's really awesome.
+Natsumi: I...see now.
+Renge: By the way, if you travel 50 kilometers per hour,
+Renge: you can't go somewhere 50 kilometers away because of traffic lights.
+Natsumi: Oh yeah...I knew that.
+Natsumi: But even in Tokyo, there's gotta be
+Natsumi: schools with elementary and middle school students,
+Natsumi: even if they're in different rooms.
+Natsumi: And the highway doesn't have traffic lights.
+Natsumi: So it's not like we live in the sticks!
+Natsumi: Hotarun, hello!
+Komari: Morning!
+Renge: Nyanpasu~!
+Hotaru: Good morning.
+Natsumi: Ren-chon?
+
+のりば
+Stop (As in bus stop)
+
+Renge: But since a tanuki lives at my house, we must live in the sticks...
+Natsumi: You're still talking about that?
+Hotaru: What are we talking about?
+Komari: Whether or not this place is really the sticks.
+Renge: Is this really the sticks after all?
+Komari: If you think about it logically...
+Natsumi: No no, we live here,
+Natsumi: it can't be the sticks.
+Komari: That already makes you sound like a country girl.
+Natsumi: Nah, even in Tokyo, monkeys show up every now and then.
+Natsumi: So just because a tanuki shows up, doesn't mean this is the sticks, right?
+Natsumi: Right?
+Hotaru: Ah...
+Komari: You really don't want this to be the sticks, do you?
+Natsumi: Even if in the sticks means doing anything is inconvenient,
+Natsumi: just having cattle and tanuki doesn't make things inconvenient, right?
+Natsumi: So, this isn't the sticks!
+Renge: I see now.
+Renge: So...this isn't the sticks.
+Renge: I feel better.
+Natsumi: I'm glad, I'm glad!
+Natsumi: You're a good girl!
+
+越谷夏
+Koshigaya Natsu-
+
+All: Let's eat!
+Komari: Today's dishes were made with the vegetables that we picked.
+Natsumi: Horsetail shoots, wild udo, and tara sprouts.
+Hotaru: Delicious!
+Hotaru: It kind of tastes like spring!
+Renge: Hotarun. Save your sakura mochi dessert.
+Hotaru: How far are we going?
+Komari: Almost there, almost there!
+Renge: Hotarun!
+Renge: Tasty, isn't it?
+Hotaru: Yeah, it's good!
+Renge: We'll come back again.
+Text: Grade 8 Class 1
+Text: + Grade 1 + Grade 7 + Grade 9 + Grade 5
+Natsumi: Waaaiiit!
+Komari: We were too slow, weren't we...
+
+旭丘
+Asahigaoka
+
+Hotaru: By the way, when's the next bus?
+Hotaru: In two hours.
+Hotaru: Huh?!
+Natsumi: Sheesh...buses in the sticks sure are inconvenient.
+Renge: I knew it!
+TexT: That's all for today.
+Natsumi: Anyone want to go play ball?
+Renge: I do!
+Komari: Besides, that flan was mine!
+Natsumi: One bite of flan is the same  size as a piece of candy!
+Hotaru: A candy store with Senpai...
+Komari: 10,000 yen?!
+Title: Episode 2
+Title: We Went to the Candy Store
+Text: Restaurant Non Non
+Text: Please Watch Again
+Text: Photo by:  Wanpasu
+Text: Come see us again!
+>>>>>>> c0238918d181066574939e03f97a9a703623be6c
