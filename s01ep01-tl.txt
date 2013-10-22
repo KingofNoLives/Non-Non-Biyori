@@ -1,3 +1,6 @@
+旭丘
+Asahigaoka
+
 Non Non S1 EP 1 Script:
 This place is my village.
 It's quiet and peaceful.
@@ -62,6 +65,34 @@ Nice to meet you, Hotarun.
 Hotarun...
 What was first period again?
 Japanese.
+
+チャート式 - Chart-shiki (This is a workbook brand)
+完全攻略トレーニング
+Complete Study Guide
+中一国語
+Seventh-Grade Japanese
+復習ドリル　
+Review Exercises
+自主学習に最適!
+Great for self-study!
+厳選された問題を凝縮
+Collection of carefully-selected problems
+国語力を確実にレベルアップ
+Level up your language skill
+学校の授業にプラスαの力がつく
+Supplements classes for greater ability
+中二国語
+Eighth-Grade Japanese
+新
+New
+くりかえし
+こくごドリル
+Japanese Drills
+1ねん
+First Grade
+上
+Part 1
+
 Ah, everyone is in different grades?
 I'm in first.
 I'm in eighth.
@@ -77,6 +108,16 @@ it's mostly self-study.
 Self-study?
 Didn't you get a workbook?
 Oh! Yeah I did!
+
+2年1組
+Class 2-1
++小一
++1st
++中一
++7th
++中三
++9th
+
 Now then, what should we do?
 Hm, I...
 Dodgeball! I wanna play dodgeball!
@@ -98,12 +139,13 @@ I see.
 Here I go!
 Take this!
 Ahh yikes!
-Eh?
+Whoops.
 Hotarun!
 Oof!
 Hotarun. Out!
 I shouldn't have tried to catch it...
 There's a key on the ground!
+Oh, that's mine.
 A key? For what?
 What's the matter?
 Well, no one is going to be home until tonight,
@@ -111,8 +153,8 @@ so I brought my house key.
 Ren-chon, do you lock your house?
 Nuh-uh.
 Nee-chan, we don't lock our doors either, do we?
-I've never seen a lock before.
-I see...
+I've never even seen a lock at our house.
+Right?...
 You're strange.
 Wait, what else would I lock...?
 Maybe mackerel? (Note: Shime means both lock and prepare with vinegar)
@@ -125,7 +167,6 @@ Ah, okay.
 Well, just for a little bit.
 These are mandarin orange trees.
 The new blossoms are coming out.
-The leaves, the type you garnish food with?
 You grow mandarin oranges?
 And rice and vegetables, mostly.
 Oh, and leaves.
@@ -137,11 +178,12 @@ Uh, anything else?
 The police box?
 That's not a store.
 Is there a bookstore?
-The candy store sells magazines.
+The candy store sells magazines. 
 But only two days late.
 Convenience stores...none of those either?
 I've seen some commercials about them!
 Cattle?
+牛横断注意: Caution: Cattle Crossing
 Sometimes deer, too.
 Boars too.
 What's wrong?
@@ -165,6 +207,10 @@ And the tanuki actually heard you?
 I named it too.
 What kind of name?
 Gu!
+
+具のおさら
+Gu's Bowl
+
 Oh! A psychedelic name!
 Gu will do a trick if I whistle again!
 Whoa!
@@ -192,29 +238,37 @@ And the highway doesn't have traffic lights.
 So it's not like we live in the sticks!
 Hotarun, hello!
 Morning!
-nyanpasu~
+Nyanpasu~
 Good morning!
 Ren-chon?
+
+のりば
+Station
+
 But since a tanuki lives at my house, we must live in the sticks...
 You're still talking about that?
 What are we talking about?
 Whether or not this place is really the sticks.
-Is this really the sticks?
+Is this really the sticks after all?
 If you think about it logically...
-Just because you live here doesn't mean it's the sticks.
+No no, we live here, it can't be the sticks.
 That already makes you sound like a country girl.
 Nah, even in Tokyo, monkeys show up every now and then.
-Just because a tanuki shows up, doesn't mean this is the sticks, right?
+Just because a tanuki shows up, doesn't mean this is the sticks, Right?
 Right?
 Ah...
-You don't want this to be the sticks, do you?
+You really don't want this to be the sticks, do you?
 If living in the sticks means doing anything is inconvenient,
 just having cattle and tanuki doesn't make things inconvenient, right?
 So, this isn't the sticks!
 I see now.
 So...this isn't the sticks.
-I feel better.
+I feel sort of better.
 I'm glad, I'm glad! You're a good girl!
+
+越谷夏
+Koshigaya Natsu-
+
 Let's eat!
 Today's dishes were made with the vegetables that we picked.
 Horsetail shoots, wild udo, and tara sprouts.
@@ -229,6 +283,9 @@ Yeah, it's good!
 We'll come back again.
 Waaaiiit!
 We were too slow, weren't we...
+
+
+
 By the way, when's the next bus?
 In two hours.
 Huh?!
